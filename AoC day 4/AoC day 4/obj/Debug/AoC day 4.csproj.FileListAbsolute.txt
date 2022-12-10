@@ -1,0 +1,8 @@
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\bin\Debug\AoC day 4.exe.config
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\bin\Debug\AoC day 4.exe
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\bin\Debug\AoC day 4.pdb
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\obj\Debug\AoC day 4.csproj.AssemblyReference.cache
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\obj\Debug\AoC day 4.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\obj\Debug\AoC day 4.csproj.CoreCompileInputs.cache
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\obj\Debug\AoC day 4.exe
+D:\My Drive\Computer science\Advent of Code\AoC day 4\AoC day 4\obj\Debug\AoC day 4.pdb

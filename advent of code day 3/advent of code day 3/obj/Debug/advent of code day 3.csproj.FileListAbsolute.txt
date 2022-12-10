@@ -1,0 +1,8 @@
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\bin\Debug\advent of code day 3.exe.config
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\bin\Debug\advent of code day 3.exe
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\bin\Debug\advent of code day 3.pdb
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\obj\Debug\advent of code day 3.csproj.AssemblyReference.cache
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\obj\Debug\advent of code day 3.csproj.SuggestedBindingRedirects.cache
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\obj\Debug\advent of code day 3.csproj.CoreCompileInputs.cache
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\obj\Debug\advent of code day 3.exe
+D:\My Drive\Computer science\advent of code day 3\advent of code day 3\obj\Debug\advent of code day 3.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a06b8e48-f9b4-4a81-a5ae-d873cae6c969": {
+      "ProjectGuid": "a06b8e48-f9b4-4a81-a5ae-d873cae6c969",
+      "DisplayName": "AoC day 4",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

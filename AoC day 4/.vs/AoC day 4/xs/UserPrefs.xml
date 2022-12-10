@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A06B8E48-F9B4-4A81-A5AE-D873CAE6C969}|Default">
+  <MonoDevelop.Ide.ItemProperties.AoC_220day_2204 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AoC day 4/Program.cs">
+    <Files>
+      <File FileName="AoC day 4/Program.cs" Line="7" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AoC day 4" expanded="True">
+            <Node name="AoC day 4" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
