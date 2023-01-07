@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Day7Csharp/1.0.0": {
+        "runtime": {
+          "Day7Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

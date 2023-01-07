@@ -1,0 +1,15 @@
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\bin\Debug\net7.0\Day6CSharp.exe
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\bin\Debug\net7.0\Day6CSharp.deps.json
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\bin\Debug\net7.0\Day6CSharp.runtimeconfig.json
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\bin\Debug\net7.0\Day6CSharp.dll
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\bin\Debug\net7.0\Day6CSharp.pdb
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.csproj.AssemblyReference.cache
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.AssemblyInfoInputs.cache
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.AssemblyInfo.cs
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.csproj.CoreCompileInputs.cache
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.dll
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\refint\Day6CSharp.dll
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.pdb
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\Day6CSharp.genruntimeconfig.cache
+c:\Users\benpo\source\repos\BenPostlethwaite\AoC2021\Day6CSharp\obj\Debug\net7.0\ref\Day6CSharp.dll
